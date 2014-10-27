@@ -1,4 +1,4 @@
-Prosole
+Prosole.js
 =======
 _When your Chrome DevTools console just isn't fun enough..._
 
