@@ -27,11 +27,15 @@ Example:
 
 
 ###**prosole.hammer()**  
-Self explanetory
+Self explanatory
 
 Example:  
 ![Hammer Example](http://i.imgur.com/HnjchI2.gif)
 
+##Instructions
+
+Just include **prosole.js** in your site, awesome debugging shall ensue.
+
 ##Credits
 
-Thanks to Google for providing [the documentation](https://developer.chrome.com/devtools/docs/console-api) to get me started on this journey... and Chrome I guess. Also a big thanks to Divshot for making [Geo Bootstrap](http://divshot.github.com/geo-bootstrap) from which I stole all of the obnoxiousness. Also, finally, to [Ethan Schoonover](http://ethanschoonover.com/) for Solarized, which is always lovely. 
+Thanks to Google for providing [the documentationn](https://developer.chrome.com/devtools/docs/console-api) to get me started on this journey... and Chrome I guess. Also a big thanks to Divshot for making [Geo Bootstrap](http://divshot.github.com/geo-bootstrap) from which I stole all of the obnoxiousness. Also, finally, to [Ethan Schoonover](http://ethanschoonover.com/) for Solarized, which is always lovely. 
